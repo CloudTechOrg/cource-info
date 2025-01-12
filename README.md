@@ -1,2 +1,2 @@
 # cource-info
-CloudTechカリキュラムの動画概要欄をまとめたものです
+CloudTechカリキュラムの動画のコードをまとめたものです
